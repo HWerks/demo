@@ -1,2 +1,2 @@
-# test
-test code
+# Sample
+sample code
